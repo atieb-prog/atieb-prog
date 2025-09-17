@@ -21,7 +21,7 @@
 </div>
 
 ## <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;">🌐 Social Media</h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/atieb waheed-024830309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/atiebwaheed-024830309)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](atiebrehman987@gmail.com) 
 
 ## <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;"> Tech Stack </h2>
@@ -35,16 +35,13 @@
 
 ## <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;"> Github Profile Summary Card</h2>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danishikram818&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atieb-prog&theme=vue"/>
 </p>
 
 ## <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;"> GitHub Stats </h2>
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=danishikram818&show_icons=true&theme=vue" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishikram818&theme=vue" alt="GitHub Streak Stats" style="width: 400px; display: block; margin: auto;" />	 -->
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=danishikram818&theme=vue"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=atieb-prog&show_icons=true&theme=vue" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=atieb-prog&theme=vue" alt="GitHub Streak Stats" style="width: 400px; display: block; margin: auto;" />	 -->
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atieb-prog&theme=vue"/>
  </p>
 
-### <h2 align='center' style="font-family: 'Century Gothic', 'Arial', sans-serif; line-height: 1.6;">Random Dev Quote</h2>
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
- [![](https://visitcount.itsvg.in/api?id=danishikram818&icon=2&color=12)](https://visitcount.itsvg.in)
