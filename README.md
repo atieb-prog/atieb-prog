@@ -60,7 +60,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atieb-prog&show_icons=true&theme=vue&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=atieb-prog&theme=vue"/>
+  <img width="60%" src="https://streak-stats.demolab.com/?user=atieb-prog&theme=vue"/>
 </p>
 
