@@ -60,6 +60,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=atieb-prog&theme=next"/>
+  <img width="60%" src="https://streak-stats.demolab.com/?user=atieb-prog&theme=react"/>
 </p>
 
